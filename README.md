@@ -1,10 +1,16 @@
 ## Hi there 👋
 
 
-I am actively looking for an internship /  apprenticeship in **Data Engineering**, **Data science** or **Software Engineering** !
+🔍 I am actively looking for an internship /  apprenticeship in **Data Engineering**, **Data science** or **Software Engineering** !
 
+📅 Available from **January 2026**
 
-AVAILABLE FROM** JANUARY 2026**
+📊 Python, MariaDB, SQLite, SAS, R
+
+👩🏻‍💻 C, C++, Java
+
+🌐 Node.js, Fastify, Typescript
+
 
 <!--
 **kimnguye/kimnguye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
