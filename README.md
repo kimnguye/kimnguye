@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+I am actively looking for an internship /  apprenticeship in **Data Engineering**, **Data science** or **Software Engineering** !
+
+
+AVAILABLE FROM** JANUARY 2026**
+
 <!--
 **kimnguye/kimnguye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
