@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-🔍 I am actively looking for an internship /  apprenticeship in **Data Engineering**, **Data science** or **Software Engineering** !
+🔍 I am actively looking for an internship /  apprenticeship in **Data Engineering** or **Data science** ! What drives me is challenges, being useful and realise a project from start to finish.
 
-📅 Available from **January 2026**
+📅 Available **immediately**
 
 📊 Python, MariaDB, SQLite, SAS, R
 
