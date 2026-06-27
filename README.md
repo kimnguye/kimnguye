@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-🔍 I am actively looking for an internship /  apprenticeship in **Data Engineering** or **Data science** ! What drives me is challenges, being useful and realise a project from start to finish.
-
-📅 Available **immediately**
+🔍 I am currently doing an internship at Natixis CIB, as an AI Data Scientist
 
 📊 Python, MariaDB, SQLite, SAS, R
 
